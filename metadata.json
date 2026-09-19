@@ -1,0 +1,8 @@
+{
+  "name": "Remix AI Phân Loại Rác – Học bằng quan sát và kiểm chứng",
+  "description": "Ứng dụng giáo dục STEM dành cho học sinh THCS học cách quan sát vật thể, kiểm chứng và phân loại rác thông qua gợi ý của AI và bảng quy tắc học đường.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
